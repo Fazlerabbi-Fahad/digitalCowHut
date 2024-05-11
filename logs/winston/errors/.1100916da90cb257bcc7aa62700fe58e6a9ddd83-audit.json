@@ -1,0 +1,75 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\errors\\.1100916da90cb257bcc7aa62700fe58e6a9ddd83-audit.json",
+    "files": [
+        {
+            "date": 1715076568490,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\errors\\error.log.2024-07-05-16",
+            "hash": "5789e4512ae4e569fdd5bf3d8c72379ac730c28cbeb9d590d60140c614a387dc"
+        },
+        {
+            "date": 1715079615725,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\errors\\error.log.2024-07-05-17",
+            "hash": "79d24401ea73473515ff4da55f383d2c642162fa3f3578013693bfe8817a18ef"
+        },
+        {
+            "date": 1715083922697,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\errors\\error.log.2024-07-05-18",
+            "hash": "2e6dff4d90583140614db4b356c2204edf3604d57e0b1c3fa8e2eeac8f09f4c4"
+        },
+        {
+            "date": 1715086873213,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\errors\\error.log.2024-07-05-19",
+            "hash": "3a1e56030acbf3b9bcee310f90c56ea30cc1deb3aea87af25f10a8d01ccb2f1b"
+        },
+        {
+            "date": 1715090416497,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\errors\\error.log.2024-07-05-20",
+            "hash": "d1784a16be315fa6d0ea280757ab8668ad079bd01c7d13a7298349a2ddc88f87"
+        },
+        {
+            "date": 1715094516564,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\errors\\error.log.2024-07-05-21",
+            "hash": "d6875f110f499d985f8ce82a01dbc2de597cfae4e30816675fa7061af936ca7b"
+        },
+        {
+            "date": 1715336589117,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\errors\\error.log.2024-10-05-16",
+            "hash": "87d603da40e97655c1998b8b2688a7f0acff6cc815895e2a72139bd851102c3e"
+        },
+        {
+            "date": 1715360358183,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\errors\\error.log.2024-10-05-22",
+            "hash": "a8560ee1369d9957870aa11c476cba6c710bf15215541582ca36c57af4dcf83a"
+        },
+        {
+            "date": 1715360409156,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\errors\\error.log.2024-10-05-23",
+            "hash": "dfc0179c6e7efca3f6c2932af32b1d3ae59485230a19598963e3ea1c65081fcf"
+        },
+        {
+            "date": 1715364926092,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\errors\\error.log.2024-11-05-00",
+            "hash": "45349add6bc00c43f0d0cb3fe6414066b2f469d1de17a168336a926456b82101"
+        },
+        {
+            "date": 1715384371141,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\errors\\error.log.2024-11-05-05",
+            "hash": "4d056aafad1a67562027ed8dd19a2e3baa1a92eeac91fb1b223a63140788a56e"
+        },
+        {
+            "date": 1715385627535,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\errors\\error.log.2024-11-05-06",
+            "hash": "b8db379b581c63a22e41889c7dd712781266e6a7f8ab788c0be33ee2e85eb7aa"
+        },
+        {
+            "date": 1715389929836,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\errors\\error.log.2024-11-05-07",
+            "hash": "b64a614a30eecba45d5aff63707ff00f4deaea6c35be18e4a1a15ce999986b67"
+        }
+    ],
+    "hashType": "sha256"
+}

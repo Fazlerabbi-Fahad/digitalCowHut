@@ -1,0 +1,75 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\successes\\.736baf6fd4ffe4d53fae94644b66d6c4cbf44c1e-audit.json",
+    "files": [
+        {
+            "date": 1715076568412,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\successes\\success.log.2024-07-05-16",
+            "hash": "4b55c6f5109f8396cff6507534e63d720100a170bd65d31dc3e550369e788ebd"
+        },
+        {
+            "date": 1715079615720,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\successes\\success.log.2024-07-05-17",
+            "hash": "1ea258f5158db24768fd168d242151f2ea137bef68dfc6d361068c8cb2161568"
+        },
+        {
+            "date": 1715083922688,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\successes\\success.log.2024-07-05-18",
+            "hash": "1551e51f69c7702c462db3f673df3e5c46836f33a0618caf9f50894ba395bde2"
+        },
+        {
+            "date": 1715086873208,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\successes\\success.log.2024-07-05-19",
+            "hash": "9ea25065ea845f0b5d731f339ad6cdeed5d318953145c50ff344bf37b2bdb2ec"
+        },
+        {
+            "date": 1715090416492,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\successes\\success.log.2024-07-05-20",
+            "hash": "4dc5ba7ff529b50c122d24faa7d7bb002f0b90f1acf839f2c34bdbc0ef4dc13d"
+        },
+        {
+            "date": 1715094516558,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\successes\\success.log.2024-07-05-21",
+            "hash": "30de0ad2998a3cad0188e637b6991cf7f840fa15d08d60aeec6a33de0a87ded6"
+        },
+        {
+            "date": 1715336589105,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\successes\\success.log.2024-10-05-16",
+            "hash": "5cfd2c5a436b3ec7912deee377dccc6014bbc28eca04bc2db737bb577f157397"
+        },
+        {
+            "date": 1715360358133,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\successes\\success.log.2024-10-05-22",
+            "hash": "bcdfbe6d1b905c782f7b2e54f9a769c3374553a0ac29b8ce6cd5907547bf7cf5"
+        },
+        {
+            "date": 1715360409142,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\successes\\success.log.2024-10-05-23",
+            "hash": "7015b8bbf7fae3adf15cc38743fd91a27e926d66c5f27edc6e3271bc2bd685bf"
+        },
+        {
+            "date": 1715364926052,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\successes\\success.log.2024-11-05-00",
+            "hash": "b7f8618ccfbffe6722eb04a179e735bd40aaf80d1a9ec65526ce870b9470e4f3"
+        },
+        {
+            "date": 1715384371116,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\successes\\success.log.2024-11-05-05",
+            "hash": "c13f677a3345cf082e6ddf54555f9337676112ea2e9428218cd747c8a658902c"
+        },
+        {
+            "date": 1715385627525,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\successes\\success.log.2024-11-05-06",
+            "hash": "5ea69f15dc6c971f6b446c1af04d63e532ae66ea8375d951334cbdb8fbb8029e"
+        },
+        {
+            "date": 1715389929819,
+            "name": "F:\\Web Tec 2\\NoSQL\\Assignment\\Digital Cow Hut\\logs\\winston\\successes\\success.log.2024-11-05-07",
+            "hash": "1fa48007815b49d62a8eac82e765db90ad1cc75f8c87437cb4c12b25ceaea5e3"
+        }
+    ],
+    "hashType": "sha256"
+}
